@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/nlp_framework_tests.dir/link.d CMakeFiles/nlp_framework_tests.dir/test_main.cpp.o -o nlp_framework_tests  ../libnlp_framework.a

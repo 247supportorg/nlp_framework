@@ -1,0 +1,9 @@
+/home/runner/work/nlp_framework/nlp_framework/build/CMakeFiles/nlp_framework.dir
+/home/runner/work/nlp_framework/nlp_framework/build/CMakeFiles/nlp_example.dir
+/home/runner/work/nlp_framework/nlp_framework/build/CMakeFiles/test.dir
+/home/runner/work/nlp_framework/nlp_framework/build/CMakeFiles/edit_cache.dir
+/home/runner/work/nlp_framework/nlp_framework/build/CMakeFiles/rebuild_cache.dir
+/home/runner/work/nlp_framework/nlp_framework/build/tests/CMakeFiles/nlp_framework_tests.dir
+/home/runner/work/nlp_framework/nlp_framework/build/tests/CMakeFiles/test.dir
+/home/runner/work/nlp_framework/nlp_framework/build/tests/CMakeFiles/edit_cache.dir
+/home/runner/work/nlp_framework/nlp_framework/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnlp_framework.a CMakeFiles/nlp_framework.dir/src/preprocessor.cpp.o CMakeFiles/nlp_framework.dir/src/tokenizer.cpp.o CMakeFiles/nlp_framework.dir/src/vocabulary.cpp.o
+/usr/bin/ranlib libnlp_framework.a
