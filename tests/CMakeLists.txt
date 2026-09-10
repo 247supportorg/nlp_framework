@@ -1,0 +1,3 @@
+add_executable(nlp_framework_tests test_main.cpp)
+target_link_libraries(nlp_framework_tests PRIVATE nlp_framework)
+add_test(NAME nlp_framework_tests COMMAND nlp_framework_tests)
