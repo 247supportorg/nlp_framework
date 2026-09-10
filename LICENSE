@@ -1,4 +1,3 @@
-<!--
 MIT License
 
 Copyright (c) 2026-2027 QB Networks
@@ -20,43 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
--->
-
-# nlp_framework
-
-NLP For Everyone
-
-## What's new
-
-The legal basics are squared away, and the project is ready for its next stop:
-
-- Added the MIT License for QB Networks in `LICENSE`.
-- Added matching license notices to every C++ header, implementation, example, and test source file.
-- Added the same licensing notice to this README without changing its rendered content.
-- Added `CHANGELOG.md` so project updates stay clear and easy to scan.
-
-## C++ NLP framework starter
-
-This repository now includes a minimal C++17 NLP framework with:
-- Text preprocessing (`Preprocessor`)
-- Whitespace tokenization (`WhitespaceTokenizer`)
-- Word-to-id vocabulary management (`Vocabulary`)
-
-### Build
-
-```bash
-cmake -S . -B build
-cmake --build build
-```
-
-### Test
-
-```bash
-ctest --test-dir build --output-on-failure
-```
-
-### Example
-
-```bash
-./build/nlp_example
-```
